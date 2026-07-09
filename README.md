@@ -26,10 +26,10 @@
 
 > Passionate about building intelligent, data-driven, and user-centric digital experiences.
 
-I’m an AIML enthusiast with a strong interest in SQL, data analytics, and front-end development.  
+I’m an Full-Stack Development enthusiast with a strong interest in SQL, data analytics, and front-end development.  
 I enjoy exploring modern technologies, creating responsive web applications, and continuously learning through real-world projects and problem solving.
 
-🔹 Exploring Artificial Intelligence & Machine Learning  
+🔹 Building Responsive and Interactive Web Applications  
 🔹 Passionate About SQL & Data Analytics  
 🔹 Building Modern Front-End Experiences  
 🔹 Continuous Learner & Tech Enthusiast
