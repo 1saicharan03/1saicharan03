@@ -33,6 +33,7 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 🔹 Passionate About SQL & Data Analytics  
 🔹 Building Modern Front-End Experiences  
 🔹 Continuous Learner & Tech Enthusiast
+
 🔹 Contributing to open-source projects and improving every day
 
 ---
