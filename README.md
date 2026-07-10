@@ -32,8 +32,7 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 🔹 Building Responsive and Interactive Web Applications  
 🔹 Passionate About SQL & Data Analytics  
 🔹 Building Modern Front-End Experiences  
-🔹 Continuous Learner & Tech Enthusiast
-
+🔹 Continuous Learner & Tech Enthusiast          
 🔹 Contributing to open-source projects and improving every day
 
 ---
@@ -51,7 +50,6 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 ### ᴀɪ & ᴍʟ  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Python%20Plotting-blue?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
