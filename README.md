@@ -26,7 +26,7 @@
 
 > Passionate about building intelligent, data-driven, and user-centric digital experiences.
 
-I’m an Full-Stack Development enthusiast with a strong interest in SQL, data analytics, and front-end development.  
+I’m an Full-Stack Development enthusiast with a strong interest in SQL, data analytics, and back-end development.  
 I enjoy exploring modern technologies, creating responsive web applications, and continuously learning through real-world projects and problem solving.
 
 🔹 Building Responsive and Interactive Web Applications  
