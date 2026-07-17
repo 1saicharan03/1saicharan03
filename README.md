@@ -34,6 +34,7 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 🔹 Building Modern Front-End Experiences  
 🔹 Continuous Learner & Tech Enthusiast          
 🔹 Contributing to open-source projects and improving every day
+🔹 Solution-Oriented Mindset: Enjoy identifying problems, proposing practical solutions, and collaborating with teammates to implement effective ideas.
 
 ---
 
